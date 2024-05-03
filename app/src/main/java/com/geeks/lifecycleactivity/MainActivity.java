@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
             finish();
         });
+
+        //8-я домашка
     }
 
     @Override
